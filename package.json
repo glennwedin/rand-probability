@@ -1,6 +1,6 @@
 {
   "name": "rand-probability",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Define values and their probability of being returned",
   "main": "rand-probability.js",
   "scripts": {
