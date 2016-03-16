@@ -1,0 +1,19 @@
+{
+  "name": "rand-probability",
+  "version": "0.0.0",
+  "description": "Define values and their probability of being returned",
+  "main": "rand-probability.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Probability",
+    "Random"
+  ],
+  "author": "Glenn Wedin",
+  "license": "MIT",
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/glennwedin/rand-probability.git"
+  }
+}
